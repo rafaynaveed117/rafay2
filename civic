@@ -1,0 +1,46 @@
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <style >
+            h1{
+                color: yellow;
+                text-align:center;
+                 }
+                 div{
+                     background-color:black;
+                     
+                 }
+                 body{
+                     background-color:grey;
+                     taxt-align: center;
+                     }
+                     img{
+                        max-width:100%;
+                        border-radius:12px;
+                        border-color:black;
+                        
+                     }
+                     marquee{
+                         color: yellow;
+                     }
+        </style>
+      <div> <h1>
+            BMW
+        </h1>
+        
+        </div>
+        <img style="height:500px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BU2hj4EBJLBdNC5mtH7sL4MbaJ7N13zkmK--ZQcc-5bMuF-7M4ZHEfft&s=10">
+<h5>
+*BMW 7 Series Specifications*
+- *Engine*: 3.0L inline 6-cylinder engine, producing 313 hp @ 6500 rpm and 450 Nm @ 4700 rpm (also available in electric and hybrid variants)
+- *Transmission*: Automatic transmission with 1-speed or 8-speed options
+- *Dimensions*: Length - 5391 mm, Width - 1940 mm, Height - 1530 mm, Wheelbase - 3215 mm
+- *Performance*: Top speed - 240-250 kmph
+- *Fuel Efficiency*: 8-13 km/l</h5>
+<marquee>
+    Thanks For selecting this one..🙃
+</marquee>
+    </body>
+</html>
