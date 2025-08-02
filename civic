@@ -5,7 +5,7 @@
     <body>
         <style >
             h1{
-                color: yellow;
+                color: white;
                 text-align:center;
                  }
                  div{
@@ -23,22 +23,36 @@
                         
                      }
                      marquee{
-                         color: yellow;
+                         color: white;
                      }
         </style>
       <div> <h1>
-            BMW
+            Grande
         </h1>
         
         </div>
-        <img style="height:500px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4BU2hj4EBJLBdNC5mtH7sL4MbaJ7N13zkmK--ZQcc-5bMuF-7M4ZHEfft&s=10">
+        <img style="height:300px;" src=data:image/jpeg;base64,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">
 <h5>
-*BMW 7 Series Specifications*
-- *Engine*: 3.0L inline 6-cylinder engine, producing 313 hp @ 6500 rpm and 450 Nm @ 4700 rpm (also available in electric and hybrid variants)
-- *Transmission*: Automatic transmission with 1-speed or 8-speed options
-- *Dimensions*: Length - 5391 mm, Width - 1940 mm, Height - 1530 mm, Wheelbase - 3215 mm
-- *Performance*: Top speed - 240-250 kmph
-- *Fuel Efficiency*: 8-13 km/l</h5>
+
+Key Features
+- *Engine*: The 2020 Honda Civic comes with a 1.5-liter turbocharged engine or a 2.0-liter inline-four engine, producing 180-205 horsepower.
+- *Transmission*: It has a Continuously Variable Transmission (CVT) or a 6-speed manual transmission.
+- *Fuel Economy*: The Civic has an estimated fuel economy of up to 32 MPG city and 42 MPG highway.
+- *Safety Features*: It includes advanced safety features like Honda Sensing suite, which comprises Collision Mitigation Braking System, Lane Departure Warning, and Adaptive Cruise Control.
+
+Specifications
+- *Dimensions*: The Civic sedan has a length of 182.7 inches, width of 70.9 inches, and height of 56.7 inches.
+- *Interior Space*: It offers 97.2 cubic feet of passenger space and 15.1 cubic feet of cargo space.
+- *Infotainment*: The Civic features a touchscreen infotainment system with Apple CarPlay and Android Auto compatibility.
+
+Variants
+- *Honda Civic LX*: The base model with standard features.
+- *Honda Civic EX*: A mid-level trim with additional features like LED headlights and fog lights.
+- *Honda Civic EX-L*: A higher trim with features like heated seats and a moonroof.
+- *Honda Civic Touring*: The top-of-the-line trim with features like navigation and a premium audio system.
+
+Price
+The price of a 2020 Honda Civic in Pakistan varies depending on the trim level and features, but prices for similar models range from PKR 8,329,000 to PKR 9,899,000. Keep in mind that prices may vary based on location, trim level, and other factors ¹.</h5>
 <marquee>
     Thanks For selecting this one..🙃
 </marquee>
